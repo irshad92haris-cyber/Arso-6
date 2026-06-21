@@ -1,0 +1,6 @@
+{
+  "name": "Arso",
+  "description": "AI-powered Photo and Video editor featuring Face Swap, Clothing Style Change, and Group Merge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
